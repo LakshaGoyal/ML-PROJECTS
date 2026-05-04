@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tensorflow-cpu
+python-multipart
+Pillow
+numpy
+jinja2
+aiofiles
